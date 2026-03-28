@@ -2,9 +2,9 @@
 
 <div align="center">
 
-**Software Developer | Full Stack | React • Next.js • Laravel • Docker**
+**Desenvolvedor Full Stack | JavaScript • React • Next.js • Laravel • Node.js • Docker**
 
-[LinkedIn](#-conecte-se-comigo) • [GitHub](#-conecte-se-comigo) • [Portfolio](#-conecte-se-comigo) • [Email](#-conecte-se-comigo)
+[GitHub](https://github.com/ThiagoSaoPedro) • [Projetos](#-projetos) • [Contato](#-conecte-se-comigo)
 
 </div>
 
@@ -12,132 +12,71 @@
 
 ## 🎯 Sobre Mim
 
-Sou um desenvolvedor **full stack** apaixonado por criar soluções web escaláveis, performáticas e mantíveis. Atualmente, combino experiência prática no desenvolvimento com formação acadêmica avançada em Ciência da Computação.
+Desenvolvedor **full stack** apaixonado por criar soluções web escaláveis e performáticas. Estou cursando **Mestrado em Ciência da Computação** pela UNESP/IBILCE com foco em **arquitetura de software** e **padrões de design**.
 
 - 📍 **Localização:** Fernandópolis, SP, Brasil
 - 🎓 **Formação:** Aluno especial do Mestrado em Ciência da Computação — UNESP/IBILCE
-- 💼 **Especialização:** Arquitetura de Software, Padrões de Design e Desenvolvimento Moderno
+- 💼 **Especialização:** Arquitetura de Software, Desenvolvimento Full Stack, Padrões de Design
 - 🚀 **Foco:** Código limpo, boas práticas e performance
 
 ---
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend:** JavaScript • React • Next.js • TypeScript • HTML5 • CSS3 • Tailwind CSS
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend:** PHP • Laravel • Node.js • PostgreSQL • MongoDB
 
-### DevOps & Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**DevOps:** Docker • Git • GitHub • Linux
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🎓 Formação & Experiência
 
-<div align="center">
+- **🎓 Mestrado em Ciência da Computação** (em andamento)
+  - Universidade Estadual Paulista - UNESP/IBILCE
+  - Foco em arquitetura de software e padrões avançados
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoSaoPedro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSaoPedro&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+- **💼 Desenvolvimento Full Stack**
+  - Experiência com React, Next.js e aplicações escaláveis
+  - Backend com Laravel, Node.js e APIs REST
+  - Infraestrutura com Docker e metodologias ágeis
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🌟 Projetos Públicos
 
-<table>
-<tr>
-<td>
+| Projeto | Descrição | Tech | Link |
+|---------|-----------|------|------|
+| **🎮 JogoDaForca** | Jogo clássico da forca com interface interativa | JavaScript, HTML, CSS | [Repo](https://github.com/ThiagoSaoPedro/JogoDaForca) • [Demo](https://jogo-da-forca-eta.vercel.app) |
+| **💳 Discover** | Agregador de links para cartão de visitas digital | HTML, CSS | [Repo](https://github.com/ThiagoSaoPedro/Discover) |
+| **🎓 Fatec** | Protótipo de site para instituição educacional | HTML, CSS | [Repo](https://github.com/ThiagoSaoPedro/Fatec) |
+| **🐍 expython** | Lista de exercícios em Python | Python | [Repo](https://github.com/ThiagoSaoPedro/expython) |
+| **⚡ Desafio-Liss** | Desafio de estágio | Jupyter Notebook | [Repo](https://github.com/ThiagoSaoPedro/Desafio-Liss) |
+| **📝 enter-science-test** | Projeto de testes | PHP | [Repo](https://github.com/ThiagoSaoPedro/enter-science-test) |
 
-### 🎮 JogoDaForca
-**Jogo web clássico de adivinhação**
+---
 
-Implementação interativa do jogo da forca com interface responsiva e lógica de gameplay robusta.
+## 🚀 Destaques
 
-**Tech:** JavaScript, HTML5, CSS3
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 💳 Discover
-**Cartão de negócios digital**
-
-Cartão digital moderno e responsivo para compartilhamento profissional e networking.
-
-**Tech:** CSS, HTML5
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🎓 Fatec
-**Prototipagem de website educacional**
-
-Website responsivo para instituição educacional com foco em UX e acessibilidade.
-
-**Tech:** HTML5, CSS3, UX Design
-
-</td>
-</tr>
-</table>
+- ✅ **9 repositórios públicos** no GitHub
+- ✅ **Desenvolvimento Full Stack** em produção
+- ✅ **Arquitetura de Software** como foco acadêmico
+- ✅ **Projetos responsivos** com foco em UX
+- ✅ **7 seguidores** • **5 seguindo**
 
 ---
 
 ## 📚 Atualmente Aprendendo
 
-<div align="center">
-
-| 🏗️ | 🔐 | ⚡ | 🤖 |
-|:---:|:---:|:---:|:---:|
-| **Arquitetura de<br/>Microsserviços** | **DevOps &<br/>CI/CD** | **Otimização de<br/>Performance** | **Design<br/>Patterns** |
-
-</div>
-
----
-
-## 🎓 Formação & Certificações
-
-- **Mestrado em Ciência da Computação** (em andamento)
-  - Universidade Estadual Paulista - UNESP/IBILCE
-  - Foco em arquitetura de software e padrões avançados
-
-- **Experiência Profissional**
-  - Desenvolvimento Full Stack em produção
-  - Arquitetura de aplicações escaláveis
-  - Trabalho com metodologias ágeis
-
----
-
-## 💡 Competências Principais
-
-```
-Frontend Development       ████████████████░░ 90%
-Backend Development        ███████████████░░░ 85%
-Database Design           ████████████░░░░░░ 80%
-DevOps & Docker          ███████████░░░░░░░ 75%
-Software Architecture     ██████████░░░░░░░░ 70%
-API Development          ████████████████░░ 90%
-```
+- 🏗️ Aprofundamento em **Arquitetura de Microsserviços**
+- 🔐 **DevOps & CI/CD** em produção
+- ⚡ **Otimização de Performance** em aplicações web
+- 🤖 **Design Patterns** avançados
 
 ---
 
@@ -145,23 +84,11 @@ API Development          ████████████████░░ 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagosaopedro)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoSaoPedro)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.oliveira@enterscience.com.br)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://thiagosaopedro.com)
-[![Business Profile](https://img.shields.io/badge/Business_Profile-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white)](https://thiagosaopedro.com/business)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ThiagoSaoPedro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagosaopedro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thiago.oliveira@enterscience.com.br)
 
-**Email:** thiago.oliveira@enterscience.com.br
-
-</div>
-
----
-
-## 📈 Estatísticas Rápidas
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThiagoSaoPedro&theme=tokyonight&hide_border=true)
+**📧 Email:** thiago.oliveira@enterscience.com.br
 
 </div>
 
@@ -169,18 +96,8 @@ API Development          ████████████████░░ 
 
 <div align="center">
 
-### 🌟 Contribuições & Open Source
-
-Sou um entusiasta de código aberto e contribuo regularmente para projetos da comunidade. Se este perfil te ajudou, considere deixar uma ⭐!
+⭐ Se curtiu meu trabalho, deixe uma estrela nos repositórios!
 
 **Vamos construir algo incrível juntos! 🚀**
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Atualizado em 2026 • Desenvolvido com ❤️ por Thiago</sub>
 
 </div>
