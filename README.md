@@ -12,3 +12,6 @@ Currently pursuing a Postgraduate Degree in Computer Science at UNESP/IBILCE.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thiagosaopedroo07@gmail.com)
 
 ---
+
+Company Profile:
+(https://github.com/ThiagoSaoPedroES)
